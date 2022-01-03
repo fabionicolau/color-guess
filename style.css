@@ -1,13 +1,35 @@
+body {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+#reset-game {
+  background-color: green;
+  color: white;
+}
+
+#title, #rgb-color, #answer, #score {
+  text-align: center;
+} 
+
 #color-palette {
   display: flex;
   flex-direction: row;
+  justify-content: center;
 }
 
 .ball {
   border: 1px solid black;
-  width: 20px;
-  height: 20px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   list-style-type: none;
+  margin: 8px;
 }
 
