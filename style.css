@@ -1,0 +1,13 @@
+#color-palette {
+  display: flex;
+  flex-direction: row;
+}
+
+.ball {
+  border: 1px solid black;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  list-style-type: none;
+}
+
