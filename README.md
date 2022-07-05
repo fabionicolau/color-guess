@@ -1,6 +1,6 @@
 <h1>Sobre</h1>
 <p>Projeto bônus do módulo 1 - Fundamentos, da <a href="https://betrybe.com" target="_blank">Trybe!</a></p>
-<p>O desafio foi construir uma aplicação um número rgb e o usuário deve adivinhar qual cor é.</p>
+<p>O desafio foi construir uma aplicação gerando um número rgb e o usuário deve adivinhar qual cor é.</p>
 
 <h1>Aplicação pronta</h1>
 
